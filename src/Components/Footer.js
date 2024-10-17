@@ -8,9 +8,8 @@ export default function Footer() {
       <Divider sx={{ borderColor: "#4CAF50", marginBottom: "10px" }} />
       <Typography variant="body1" sx={{ fontWeight: 500, marginBottom: "10px" }}>
         Connect with me on{' '}
-        <Link href="www.linkedin.com/in/pradeep-kumar-reddy-n091095" target="_blank" rel="noopener noreferrer">
+        <Link href="https://www.linkedin.com/in/pradeep-kumar-reddy-n091095" target="_blank" rel="noopener noreferrer">
           <LinkedInIcon sx={{ verticalAlign: 'middle', marginRight: '5px' }} />
-          LinkedIn
         </Link>
       </Typography>
     </Box>
